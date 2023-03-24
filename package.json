@@ -9,3 +9,7 @@
   "author": "cacasa",
   "license": "ISC"
 }
+
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
